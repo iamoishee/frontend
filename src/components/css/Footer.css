@@ -1,0 +1,15 @@
+.add-email{
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.submit-email {
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
