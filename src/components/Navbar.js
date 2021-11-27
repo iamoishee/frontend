@@ -26,17 +26,6 @@ const Navbar = () => {
             className="collapse navbar-collapse text-center"
             id="navbarSupportedContent"
           >
-            <div className="mx-auto">
-              <a href="#" className="btn btn-success rounded-circle mx-2 my-2">
-                <i class="fab fa-whatsapp"></i>
-              </a>
-              <a href="#" className="btn btn-primary rounded-circle mx-2 my-2">
-                <i class="fab fa-facebook"></i>
-              </a>
-              <a href="#" className="btn rounded-circle mx-2 my-2" style={{backgroundColor: '#8a3ab9', color:'white'}}>
-                <i class="fab fa-instagram"></i>
-              </a>
-            </div>
 
             <form className="d-flex mx-auto" style={{width: '60%'}}>
               <input
