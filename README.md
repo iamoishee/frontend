@@ -1,6 +1,11 @@
-<div style="text-align:center">
+<p align = "center">
     <img src="https://avatars.githubusercontent.com/u/94982474?s=400&u=fda50f8108654cfa9da943b20c0a0aef0170d26b&v=4" />
-</div>
+</p>
+
+<br>
+<br>
+<br>
+
 
 # CRAFTSMEN
 
