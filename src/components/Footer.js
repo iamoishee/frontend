@@ -4,7 +4,7 @@ import Style from "../components/css/Footer.css"
 
 const Footer = () => {
     return (
-        <div className="fixed-bottom">
+        <div>
             <footer className="text-center text-lg-start bg-light text-muted">
                 <section
                     className="d-flex justify-content-center justify-content-lg-between p-4 border-bottom"
@@ -54,7 +54,7 @@ const Footer = () => {
                                 <p><i className="fas fa-home me-3"></i> IEM, Kolkata</p>
                                 <p>
                                     <i className="fas fa-envelope me-3"></i>
-                                    craftsmengdsc@gmail.com
+                                    craftsmangdsc@gmail.com
                                 </p>
                                 <p><i className="fas fa-phone me-3"></i> +91xxxxxxxxxx</p>
                             </div>
