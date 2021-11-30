@@ -1,3 +1,10 @@
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Craftsmen-GDSC/count.svg" />
+</p>
+
 <p align = "center">
     <img src="https://avatars.githubusercontent.com/u/94982474?s=400&u=fda50f8108654cfa9da943b20c0a0aef0170d26b&v=4" />
 </p>
